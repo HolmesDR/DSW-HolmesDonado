@@ -1,0 +1,21 @@
+header{
+    background-color: #19456B;
+}
+nav{
+    background-color: #11698E;
+}
+section{
+    background-color: #16C79A;
+    grid-column: 1/4;
+}
+aside{
+    background-color: rgb(187, 185, 185);
+    grid-template-columns: 4/5;
+}
+footer{
+    background-color: grey;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
